@@ -1,4 +1,3 @@
-
 ¿Qué es Lorem Ipsum?
 Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde la 
 década de 1500, cuando un impresor desconocido tomó una galera de tipos y la revolvió para hacer un libro de muestras tipográficas. Ha sobrevivido no solo cinco siglos, sino también 
